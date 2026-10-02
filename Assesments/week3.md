@@ -169,7 +169,7 @@ Evaluate the student's ability to:
 
 Create a GitHub repository named:
 
-`fullstack-gwt-week2`
+`fullstack-gwt-week3`
 
 Push the completed project to the `main` branch.
 
